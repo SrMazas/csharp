@@ -1,0 +1,11 @@
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe.config
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.pdb
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.AssemblyReference.cache
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Form1.resources
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Properties.Resources.resources
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.GenerateResource.cache
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.exe
+C:\Users\Gabriel\github\csharp\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.pdb
