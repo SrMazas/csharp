@@ -114,5 +114,6 @@
         </Grid>
         <materials:BloomView x:Name="Bloom" DoubleTapped="Grid_DoubleTapped" x:Load="{x:Bind BloomSwitch.IsOn, Mode=OneWay}" Canvas.ZIndex="75"/>
         <materials:AuroraLite x:Name="Aurora" DoubleTapped="Grid_DoubleTapped" Canvas.ZIndex="50" x:Load="{x:Bind AuroraSwitch.IsOn, Mode=OneWay}"/>
+        <WebView/>
     </Grid>
 </Page>
